@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: green;
+    position: relative;
+    height: 96vh;
+}
+
+div{
+    /*Centralizando a DIV*/
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 5em;
+}
